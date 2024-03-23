@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Table of contents
 
@@ -20,12 +20,12 @@ Here you can see how my QR code component challenge looks like after finishing
 
 ### Screenshot
 
-![My desktop design preview for the QR code component](./my-desktop-design.jpg)
+![My desktop design preview for the QR code component](./design/my-desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-project-ScnsOLxmHe)
+- Live Site URL: [Live site URL](https://beamish-unicorn-d02b4d.netlify.app/)
 
 ## My process
 

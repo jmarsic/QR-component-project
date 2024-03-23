@@ -62,7 +62,7 @@ body {
 .hero {
   width: 320px;
   margin: 0 auto;
-  margin-top: 200px;
+  margin-top: 240px;
   align-items: center;
   background-color: var(--hero-background);
   padding: 1rem;
